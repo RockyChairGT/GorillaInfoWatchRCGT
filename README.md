@@ -12,7 +12,7 @@
 </div>
 
 ## Features
-TBA
+Everything Dev Had Originally
 
 ## Usage
 TBA
