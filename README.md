@@ -19,7 +19,7 @@ The following list of dependencies are required for GorillaInfoWatch to run prop
 These dependencies can be downloaded and installed manually by the user, or done using an automation tool for Gorilla Tag such as [MonkeModManager](https://github.com/BzzzThe18th/MonkeModManager/releases/latest).
 
 ## Optional
-This mod supports full integration with the [GorillaFriendsMod] 
+This mod supports full integration with the GorillaFriendsMod!
 (https://github.com/RusJJ/GorillaFriends)
 
 ## Disclaimer
