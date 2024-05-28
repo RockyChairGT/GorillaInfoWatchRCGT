@@ -20,6 +20,7 @@ These dependencies can be downloaded and installed manually by the user, or done
 
 ## Optional
 This mod supports full integration with the [GorillaFriendsMod] 
-(
+(https://github.com/RusJJ/GorillaFriends)
+
 ## Disclaimer
 <b>This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.</b>
