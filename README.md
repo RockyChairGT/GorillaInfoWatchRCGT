@@ -4,7 +4,7 @@
 </div>
 
 ## Features
-Everything Dev Had Originally
+Tells The time
 
 ## Usage
 TBA
@@ -17,10 +17,6 @@ The following list of dependencies are required for GorillaInfoWatch to run prop
 * [Utilla](https://github.com/legoandmars/Utilla/releases/latest)
 
 These dependencies can be downloaded and installed manually by the user, or done using an automation tool for Gorilla Tag such as [MonkeModManager](https://github.com/BzzzThe18th/MonkeModManager/releases/latest).
-
-## Optional
-This mod supports full integration with the [GorillaFriendsMod]!
-`(https://github.com/RusJJ/GorillaFriends)`
 
 ## Disclaimer
 <b>This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.</b>
