@@ -1,11 +1,4 @@
 <div align="center">
- <a href="https://github.com/developer9998/GorillaInfoWatch/blob/main/LICENSE/">   
-</a>
- <a href="https://github.com/RockyChairGT/RCGTInfoWatch/releases">
- <img href="https://discord.gg/a8yrZXpF59">
- <img src="https://img.shields.io/discord/989239017511989258?label=Discord&style=flat-square"</img></a>
-</div>
-<div align="center">
   <img src="https://raw.githubusercontent.com/developer9998/GorillaInfoWatch/baeeb10d86cfe592b0b2908a917a870dd55931f2/Marketing/GIW_Banner.png" style="display: block; margin-left: auto; margin-right: auto; width=50%;">
   <b>GorillaInfoWatch</b> is a utility mod for Gorilla Tag, which allows players to use the portable graphic interfacial watch created by the mod, and developers to implement their own information and logic using the mod.
 </div>
