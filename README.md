@@ -1,9 +1,9 @@
 <div align="center">
  <a href="https://github.com/developer9998/GorillaInfoWatch/blob/main/LICENSE/">   
  <img src="https://img.shields.io/github/license/developer9998/GorillaInfoWatch?label=License&style=flat-square"</img></a>
- <a href="https://github.com/developer9998/GorillaInfoWatch/releases/latest">
+ <a href="https://github.com/RockyChairGT/RCGTInfoWatch/releases">
  <img src="https://img.shields.io/github/downloads/developer9998/GorillaInfoWatch/total?label=Downloads&style=flat-square"<img></a>
- <a href="https://discord.gg/dev9998">
+ <a href="https://discord.gg/a8yrZXpF59">
  <img src="https://img.shields.io/discord/989239017511989258?label=Discord&style=flat-square"</img></a>
 </div>
 <div align="center">
